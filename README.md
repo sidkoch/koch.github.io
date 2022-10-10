@@ -1,4 +1,4 @@
-# About Me
+# Siddhant Kochrekar
 I am a Second Year Graduate student in the Computer Science department at Rutgers University. Currently, I am working on my research thesis which lies at the intersection of human cognition and artificial intelligence, wherein I am building predictive models around human memory and decision-making.
 
 Recently I worked with NVIDIA as a Summer Intern where I got a chance to tackle some interesting problems in the areas of Natural Language Processing and Pattern Recognition. Before starting my Master's journey, I had a professional work experience of 3 years as a Data Scientist in the Fin-Tech space.
